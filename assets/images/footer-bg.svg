@@ -1,0 +1,19 @@
+<svg width="1920.193" height="1054.854" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient gradientUnits="objectBoundingBox" x2="0.5" y1="1" x1="0.5" id="linear-gradient">
+   <stop stop-color="#361cc1" offset="0"/>
+   <stop stop-color="#2e82ef" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill="url(#linear-gradient)" id="Group_111">
+   <path stroke="#f95432" fill="#fc9432" opacity="0.11" d="m1920.193,675.21718s-85.855,-337.77 -386.677,-270.232s-439.4,0 -538.268,-145.16s-352,-126.953 -574.629,-79.205s-302.43,-21.533 -420.619,-180.62c0,0.029 0.052,1054.854 0.052,1054.854l1920.125,0l0.016,-379.637z" id="Path_195"/>
+   <path stroke="#f95432" fill="#fc9432" d="m1920.160985,675.296035s-86.293,-291.46 -385.926,-226.392s-437.666,0 -536.141,-139.852s-348.515,-144.641 -576.542,-88.319s-380,-116.481 -421.437,-220.589c0.1,8 -0.016,1054.71 -0.016,1054.71l1920.047,0l0.015,-379.558z" id="Path_194"/>
+  </g>
+ </g>
+</svg>
